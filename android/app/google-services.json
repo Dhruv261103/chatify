@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "905254753939",
+    "project_id": "chatify-b1de0",
+    "storage_bucket": "chatify-b1de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905254753939:android:3627cff6d7f2f7296b5f66",
+        "android_client_info": {
+          "package_name": "com.example.chatify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905254753939-0tnmjjtl1gb38ttkovaiu0dbem2237d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatify",
+            "certificate_hash": "ac57bfa3044d5e25469c904d7154e4547fc422b8"
+          }
+        },
+        {
+          "client_id": "905254753939-ce3g7telq68b5h60h6ned0jfjdilssd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpGbP8S_DBSof4M2k5Hj60J3n52B2qF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905254753939-4grskalie6j022m2nq0ndr4a017d3gv3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "905254753939-2strda0r4326g7cut7c6run99509sk39.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
